@@ -1,5 +1,5 @@
 # How to Grow Your YouTube Channel 
-Youtube is a large scale video-sharing platform that can a source of money for people aspiring to be content creators. The amount of views a video receives is important in determining how much revnue a content creator will earn and the overall health of a channel. We evaulate the ability to predict the percent change in views on a video between the second and sixth hour since publishing. Our methodology includes preprocessing and transforming predictor variables, finding significant predictors, and applying a variety of regression models. 
+Youtube is a large scale video-sharing platform that can a source of money for people aspiring to be content creators. The amount of views a video receives is important in determining how much revenue a content creator will earn and the overall health of a channel. We evaulate the ability to predict the percent change in views on a video between the second and sixth hour since publishing. Our methodology includes preprocessing and transforming predictor variables, finding significant predictors, and applying a variety of regression models. 
 
 
 # Model Accuracies
